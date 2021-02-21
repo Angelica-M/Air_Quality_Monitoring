@@ -1,8 +1,12 @@
 # Air_Quality_Monitoring
-===========================================
 An IoT-based Air Quality Monitoring System constructed with the Arduino language, the ESP8266 Node 12-E  Microcontroller, &amp; the PMS5003 PM2.5 air particle and dust laser sensor by Plantower. Was used to create a geo-map visualization of collected particulate matter air-quality data of the UTA campus.
 
-This system must have the Arduino core for ESP8266 WiFi chip installed. The Arduino core for ESP8266 WiFi chip is found at https://github.com/esp8266/Arduino.
+This system requires the Arduino core for ESP8266 WiFi chip to be installed. The Arduino core for ESP8266 WiFi chip is found at https://github.com/esp8266/Arduino.
+
+<img src="https://github.com/Angelica-M/Air_Quality_Monitoring/blob/main/HeatMap.JPG" width=250><br>
+<img src="https://github.com/Angelica-M/Air_Quality_Monitoring/blob/main/CombinedFeeds.xlsx" width=250><br>
+
+Heat map was created with EasyMapMaker.com (https://www.easymapmaker.com/) using the XLSX file CombinedFeed as input.
 
 # Arduino on ESP8266
 
