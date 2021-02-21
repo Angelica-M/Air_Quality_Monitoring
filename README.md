@@ -7,11 +7,11 @@ This project was created under the supervision of Dr. Ming Li for OurCS@DFW, an 
 
 This system requires the Arduino core for ESP8266 WiFi chip to be installed. The Arduino core for ESP8266 WiFi chip is found at https://github.com/esp8266/Arduino.
 
-<img src="https://github.com/Angelica-M/Air_Quality_Monitoring/blob/main/HeatMap.JPG" width=700><br>
+<img src="https://github.com/Angelica-M/Air_Quality_Monitoring/blob/main/HeatMap.JPG" width=800><br>
 Heat map was created with EasyMapMaker.com (https://www.easymapmaker.com/) using the contents of CombinedFeed.xlsx as input.
 
 ### License and credits ###
-  Copyright [2021] [Ming Li, Srinivasan Murali, Huadi Zhu, Angelica Magnussen, Dongqing (Grace) Ye, Ashlie Burrola]
+Copyright [2021] [Ming Li, Srinivasan Murali, Huadi Zhu, Angelica Magnussen, Dongqing (Grace) Ye, Ashlei Burrola]
 
 # Arduino on ESP8266
 
